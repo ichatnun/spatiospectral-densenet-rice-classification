@@ -180,7 +180,7 @@ if __name__ == '__main__':
     params['activation_type'] = 'LeakyReLU'                   # Specify activation
     params['USE_DATA_AUG'] = True                             # Use data augmentation
     params['num_epochs'] = 800                                # Number of epochs
-    params['batch_size'] = 6                                  # Batch size
+    params['batch_size'] = 3                                  # Batch size
     params['learning_rate_base'] = 0.0005                     # Initial learning rate
     params['kernel_size'] = 3                                 # Kernel size for a conv layer
     params['growth_rate'] = 20                                # Growth rate of a dense block
