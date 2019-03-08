@@ -1,5 +1,5 @@
 # spatiospectral-densenet-rice-classification
-Example data and Keras implementation of a deep convolutional neural network described in [Rice Classification Using Spatio-Spectral Deep Convolutional Neural Network](https://arxiv.org/abs/1805.11491).
+Example data and Keras implementation of a deep convolutional neural network described in [ArXiv: Rice Classification Using Spatio-Spectral Deep Convolutional Neural Network](https://arxiv.org/abs/1805.11491).
 
 Overview
 ------
